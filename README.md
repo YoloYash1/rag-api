@@ -1,5 +1,3 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://nextwork.ai/static/nextwork-logo-paper.svg" /><img src="https://nextwork.ai/static/nextwork-logo-leather.svg" alt="NextWork" width="300" /></picture>
-
 # Build a RAG API with FastAPI
 
 **Project Link:** [View Project](https://nextwork.ai/projects/d7ecb20f-0096-430f-8ad5-65f081720bcd)
